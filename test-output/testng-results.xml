@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24116" started-at="2020-12-03T21:28:02Z" finished-at="2020-12-03T21:28:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24116" started-at="2020-12-03T21:28:02Z" finished-at="2020-12-03T21:28:26Z">
+      <class name="com_actiTIME_test.P1">
+        <test-method status="PASS" signature="tc_01()" name="tc_01" duration-ms="24105" started-at="2020-12-03T21:28:02Z" finished-at="2020-12-03T21:28:26Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

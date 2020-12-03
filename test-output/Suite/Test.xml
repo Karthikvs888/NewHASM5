@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="user-PC" name="com_actiTIME_test.P1" tests="1" failures="0" timestamp="1 Dec 2020 15:03:30 GMT" time="21.23" errors="0">
+  <testcase name="tc_02" time="21.219" classname="com_actiTIME_test.P1"/>
+</testsuite>
